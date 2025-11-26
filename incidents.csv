@@ -1,0 +1,101 @@
+INC Number,Issue Description,Category,Priority,Work Notes,Resolution Notes,Start Time,End Time,Assignment Group,Assignee,Customer Score,Customer Review
+INC10000,Email not syncing,Email,Medium,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/2/2025 23:00,1/3/2025 4:00,Network Team,Alice Smith,1,Excellent
+INC10001,Email not syncing,Email,Low,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,2/7/2025 13:00,2/7/2025 14:00,IT Support,Alice Smith,2,Excellent
+INC10002,Access denied to shared folder,Access,Critical,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/2/2025 17:00,1/2/2025 21:00,Network Team,Priya Sharma,5,Bad
+INC10003,Network connectivity issue,Network,Critical,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/18/2025 5:00,2/18/2025 17:00,Security Ops,Ravi Kumar,2,Neutral
+INC10004,VPN connection failure,VPN,Low,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,1/7/2025 2:00,1/7/2025 9:00,Security Ops,Ravi Kumar,5,Bad
+INC10005,Network connectivity issue,Network,Low,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/16/2025 14:00,2/16/2025 23:00,Database Admin,John Doe,5,Bad
+INC10006,Access denied to shared folder,Access,Low,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/24/2025 18:00,1/24/2025 22:00,IT Support,Sara Khan,2,Bad
+INC10007,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/15/2025 3:00,1/15/2025 10:00,Database Admin,Sara Khan,3,Neutral
+INC10008,VPN connection failure,VPN,High,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,1/23/2025 6:00,1/23/2025 17:00,IT Support,David Lee,2,Excellent
+INC10009,Slow system performance,System,High,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/11/2025 14:00,1/11/2025 21:00,Application Support,Alice Smith,3,Good
+INC10010,Slow system performance,System,High,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/3/2025 10:00,1/3/2025 17:00,IT Support,Alice Smith,5,Bad
+INC10011,Slow system performance,System,Critical,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,2/11/2025 15:00,2/11/2025 22:00,Network Team,Ravi Kumar,2,Neutral
+INC10012,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,2/4/2025 8:00,2/4/2025 20:00,Application Support,Priya Sharma,3,Neutral
+INC10013,Application crash,Application,Low,Work initiated on issue: Application crash,Issue resolved: Application crash,2/2/2025 15:00,2/2/2025 17:00,IT Support,Alice Smith,2,Very Good
+INC10014,Access denied to shared folder,Access,Critical,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/5/2025 12:00,1/5/2025 19:00,Application Support,Ravi Kumar,5,Good
+INC10015,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,2/13/2025 17:00,2/13/2025 22:00,IT Support,Ravi Kumar,4,Neutral
+INC10016,Database timeout,Database,High,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/1/2025 23:00,1/2/2025 11:00,Application Support,Alice Smith,5,Good
+INC10017,Password reset required,Security,Medium,Work initiated on issue: Password reset required,Issue resolved: Password reset required,2/10/2025 16:00,2/11/2025 2:00,Network Team,Ravi Kumar,2,Excellent
+INC10018,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/1/2025 19:00,1/2/2025 1:00,IT Support,John Doe,3,Bad
+INC10019,Slow system performance,System,Low,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/4/2025 7:00,1/4/2025 17:00,IT Support,Sara Khan,4,Good
+INC10020,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,2/19/2025 4:00,2/19/2025 7:00,Application Support,Alice Smith,3,Excellent
+INC10021,Access denied to shared folder,Access,Medium,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/28/2025 6:00,1/28/2025 15:00,Security Ops,Priya Sharma,3,Very Good
+INC10022,Software installation failure,Software,Medium,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/29/2025 3:00,1/29/2025 7:00,IT Support,Ravi Kumar,1,Excellent
+INC10023,Software installation failure,Software,Low,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/15/2025 18:00,1/15/2025 22:00,IT Support,Sara Khan,1,Neutral
+INC10024,Email not syncing,Email,Medium,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/3/2025 10:00,1/3/2025 12:00,Security Ops,Sara Khan,4,Neutral
+INC10025,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/9/2025 23:00,1/10/2025 9:00,Network Team,Priya Sharma,4,Neutral
+INC10026,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/7/2025 21:00,1/8/2025 4:00,Database Admin,Priya Sharma,4,Good
+INC10027,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/4/2025 12:00,1/5/2025 0:00,IT Support,Alice Smith,2,Neutral
+INC10028,Software installation failure,Software,Medium,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/29/2025 4:00,1/29/2025 11:00,Security Ops,Priya Sharma,2,Good
+INC10029,Database timeout,Database,Low,Work initiated on issue: Database timeout,Issue resolved: Database timeout,2/5/2025 3:00,2/5/2025 4:00,IT Support,Alice Smith,2,Very Good
+INC10030,Database timeout,Database,Low,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/31/2025 6:00,1/31/2025 13:00,Network Team,Priya Sharma,1,Very Good
+INC10031,Password reset required,Security,Critical,Work initiated on issue: Password reset required,Issue resolved: Password reset required,2/20/2025 14:00,2/20/2025 19:00,Application Support,Sara Khan,4,Neutral
+INC10032,Slow system performance,System,Low,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/19/2025 6:00,1/19/2025 7:00,Security Ops,John Doe,1,Excellent
+INC10033,Database timeout,Database,Low,Work initiated on issue: Database timeout,Issue resolved: Database timeout,2/2/2025 16:00,2/2/2025 19:00,Application Support,John Doe,2,Good
+INC10034,Access denied to shared folder,Access,Critical,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/5/2025 21:00,1/6/2025 1:00,IT Support,David Lee,2,Excellent
+INC10035,Access denied to shared folder,Access,Critical,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/3/2025 19:00,1/3/2025 21:00,Application Support,David Lee,5,Bad
+INC10036,Password reset required,Security,High,Work initiated on issue: Password reset required,Issue resolved: Password reset required,1/14/2025 21:00,1/15/2025 9:00,Network Team,Ravi Kumar,4,Neutral
+INC10037,Password reset required,Security,Low,Work initiated on issue: Password reset required,Issue resolved: Password reset required,1/30/2025 10:00,1/30/2025 12:00,Database Admin,David Lee,5,Good
+INC10038,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,2/4/2025 6:00,2/4/2025 15:00,Network Team,Ravi Kumar,1,Neutral
+INC10039,VPN connection failure,VPN,High,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,1/19/2025 5:00,1/19/2025 13:00,Application Support,Sara Khan,5,Good
+INC10040,Software installation failure,Software,Medium,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/20/2025 21:00,1/20/2025 23:00,Security Ops,John Doe,1,Excellent
+INC10041,Application crash,Application,Medium,Work initiated on issue: Application crash,Issue resolved: Application crash,1/18/2025 9:00,1/18/2025 19:00,Security Ops,Alice Smith,3,Excellent
+INC10042,Database timeout,Database,Critical,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/17/2025 1:00,1/17/2025 3:00,Security Ops,John Doe,1,Bad
+INC10043,Application crash,Application,Critical,Work initiated on issue: Application crash,Issue resolved: Application crash,2/10/2025 8:00,2/10/2025 11:00,Application Support,Sara Khan,4,Excellent
+INC10044,Network connectivity issue,Network,Medium,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,1/8/2025 2:00,1/8/2025 14:00,Application Support,John Doe,3,Excellent
+INC10045,Software installation failure,Software,Low,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/10/2025 13:00,1/10/2025 16:00,Security Ops,Ravi Kumar,1,Bad
+INC10046,Slow system performance,System,Low,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,2/13/2025 7:00,2/13/2025 18:00,Security Ops,David Lee,4,Excellent
+INC10047,Application crash,Application,Critical,Work initiated on issue: Application crash,Issue resolved: Application crash,1/16/2025 5:00,1/16/2025 8:00,IT Support,Alice Smith,3,Very Good
+INC10048,Slow system performance,System,Low,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/18/2025 5:00,1/18/2025 17:00,Database Admin,John Doe,4,Neutral
+INC10049,Slow system performance,System,Medium,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/30/2025 11:00,1/30/2025 16:00,Network Team,John Doe,2,Very Good
+INC10050,VPN connection failure,VPN,High,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,1/18/2025 2:00,1/18/2025 7:00,Application Support,Priya Sharma,5,Bad
+INC10051,Network connectivity issue,Network,High,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,1/8/2025 8:00,1/8/2025 11:00,IT Support,John Doe,5,Very Good
+INC10052,VPN connection failure,VPN,Low,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,2/16/2025 10:00,2/16/2025 17:00,Database Admin,David Lee,2,Bad
+INC10053,Network connectivity issue,Network,Medium,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/15/2025 13:00,2/15/2025 14:00,Security Ops,Priya Sharma,1,Bad
+INC10054,Access denied to shared folder,Access,High,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/21/2025 21:00,1/21/2025 23:00,Application Support,Ravi Kumar,4,Bad
+INC10055,Printer not working,Hardware,Medium,Work initiated on issue: Printer not working,Issue resolved: Printer not working,2/14/2025 9:00,2/14/2025 18:00,Network Team,Priya Sharma,4,Neutral
+INC10056,Access denied to shared folder,Access,Low,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,2/6/2025 9:00,2/6/2025 16:00,Security Ops,Ravi Kumar,2,Very Good
+INC10057,Access denied to shared folder,Access,Critical,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,2/8/2025 20:00,2/9/2025 2:00,Database Admin,Priya Sharma,2,Excellent
+INC10058,Database timeout,Database,Low,Work initiated on issue: Database timeout,Issue resolved: Database timeout,2/20/2025 23:00,2/21/2025 2:00,Security Ops,David Lee,5,Bad
+INC10059,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,2/18/2025 7:00,2/18/2025 18:00,Network Team,Alice Smith,2,Good
+INC10060,Network connectivity issue,Network,Low,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,1/16/2025 15:00,1/17/2025 1:00,Database Admin,Priya Sharma,5,Neutral
+INC10061,Printer not working,Hardware,Medium,Work initiated on issue: Printer not working,Issue resolved: Printer not working,2/1/2025 12:00,2/1/2025 16:00,IT Support,John Doe,4,Neutral
+INC10062,Application crash,Application,Low,Work initiated on issue: Application crash,Issue resolved: Application crash,2/14/2025 16:00,2/15/2025 0:00,Application Support,Alice Smith,1,Very Good
+INC10063,Application crash,Application,High,Work initiated on issue: Application crash,Issue resolved: Application crash,1/30/2025 21:00,1/31/2025 6:00,Database Admin,David Lee,5,Very Good
+INC10064,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/29/2025 5:00,1/29/2025 17:00,Database Admin,Ravi Kumar,2,Bad
+INC10065,Software installation failure,Software,High,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,2/1/2025 20:00,2/2/2025 0:00,Database Admin,John Doe,3,Neutral
+INC10066,Password reset required,Security,Low,Work initiated on issue: Password reset required,Issue resolved: Password reset required,1/22/2025 10:00,1/22/2025 19:00,Network Team,Alice Smith,2,Very Good
+INC10067,Application crash,Application,Critical,Work initiated on issue: Application crash,Issue resolved: Application crash,2/15/2025 6:00,2/15/2025 8:00,Database Admin,Ravi Kumar,5,Very Good
+INC10068,Printer not working,Hardware,Critical,Work initiated on issue: Printer not working,Issue resolved: Printer not working,1/4/2025 6:00,1/4/2025 13:00,Application Support,Sara Khan,1,Excellent
+INC10069,Printer not working,Hardware,High,Work initiated on issue: Printer not working,Issue resolved: Printer not working,1/31/2025 0:00,1/31/2025 6:00,Database Admin,Priya Sharma,5,Excellent
+INC10070,Access denied to shared folder,Access,High,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/15/2025 15:00,1/15/2025 19:00,Database Admin,Priya Sharma,1,Very Good
+INC10071,VPN connection failure,VPN,Medium,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,2/12/2025 21:00,2/13/2025 4:00,Database Admin,Alice Smith,5,Excellent
+INC10072,Network connectivity issue,Network,Low,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,1/26/2025 18:00,1/27/2025 4:00,IT Support,Sara Khan,4,Neutral
+INC10073,Database timeout,Database,Critical,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/12/2025 1:00,1/12/2025 6:00,Security Ops,Alice Smith,4,Bad
+INC10074,VPN connection failure,VPN,Critical,Work initiated on issue: VPN connection failure,Issue resolved: VPN connection failure,2/18/2025 12:00,2/18/2025 17:00,Security Ops,John Doe,4,Good
+INC10075,Software installation failure,Software,Low,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/4/2025 11:00,1/4/2025 15:00,IT Support,John Doe,2,Neutral
+INC10076,Network connectivity issue,Network,Medium,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/9/2025 4:00,2/9/2025 8:00,Database Admin,Sara Khan,1,Excellent
+INC10077,Slow system performance,System,High,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/30/2025 22:00,1/31/2025 3:00,Network Team,David Lee,5,Good
+INC10078,Application crash,Application,Low,Work initiated on issue: Application crash,Issue resolved: Application crash,1/20/2025 3:00,1/20/2025 13:00,Security Ops,David Lee,4,Very Good
+INC10079,Slow system performance,System,Medium,Work initiated on issue: Slow system performance,Issue resolved: Slow system performance,1/5/2025 18:00,1/6/2025 6:00,IT Support,Sara Khan,3,Excellent
+INC10080,Email not syncing,Email,High,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,2/20/2025 18:00,2/20/2025 19:00,Application Support,Priya Sharma,3,Good
+INC10081,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,2/11/2025 10:00,2/11/2025 11:00,Database Admin,John Doe,4,Bad
+INC10082,Database timeout,Database,Medium,Work initiated on issue: Database timeout,Issue resolved: Database timeout,2/15/2025 4:00,2/15/2025 11:00,Application Support,Sara Khan,3,Excellent
+INC10083,Software installation failure,Software,Critical,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,2/19/2025 15:00,2/19/2025 23:00,Application Support,Ravi Kumar,3,Neutral
+INC10084,Email not syncing,Email,Critical,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/18/2025 14:00,1/18/2025 18:00,Application Support,David Lee,4,Bad
+INC10085,Network connectivity issue,Network,Critical,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/1/2025 10:00,2/1/2025 13:00,Network Team,Ravi Kumar,3,Bad
+INC10086,Password reset required,Security,Low,Work initiated on issue: Password reset required,Issue resolved: Password reset required,2/8/2025 22:00,2/9/2025 3:00,Application Support,Alice Smith,1,Neutral
+INC10087,Printer not working,Hardware,Critical,Work initiated on issue: Printer not working,Issue resolved: Printer not working,2/1/2025 17:00,2/1/2025 21:00,Database Admin,Priya Sharma,1,Good
+INC10088,Password reset required,Security,Medium,Work initiated on issue: Password reset required,Issue resolved: Password reset required,1/15/2025 12:00,1/16/2025 0:00,Security Ops,Sara Khan,5,Bad
+INC10089,Database timeout,Database,Critical,Work initiated on issue: Database timeout,Issue resolved: Database timeout,2/5/2025 16:00,2/5/2025 22:00,Application Support,Ravi Kumar,3,Very Good
+INC10090,Password reset required,Security,Low,Work initiated on issue: Password reset required,Issue resolved: Password reset required,1/20/2025 8:00,1/20/2025 12:00,Network Team,Ravi Kumar,1,Excellent
+INC10091,Application crash,Application,Critical,Work initiated on issue: Application crash,Issue resolved: Application crash,1/13/2025 6:00,1/13/2025 18:00,Security Ops,Sara Khan,5,Excellent
+INC10092,Access denied to shared folder,Access,High,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/19/2025 3:00,1/19/2025 7:00,Network Team,Ravi Kumar,2,Bad
+INC10093,Network connectivity issue,Network,High,Work initiated on issue: Network connectivity issue,Issue resolved: Network connectivity issue,2/15/2025 17:00,2/15/2025 20:00,IT Support,John Doe,5,Bad
+INC10094,Application crash,Application,Low,Work initiated on issue: Application crash,Issue resolved: Application crash,2/10/2025 15:00,2/10/2025 17:00,Application Support,Ravi Kumar,4,Very Good
+INC10095,Database timeout,Database,High,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/22/2025 5:00,1/22/2025 6:00,Database Admin,John Doe,1,Very Good
+INC10096,Database timeout,Database,Low,Work initiated on issue: Database timeout,Issue resolved: Database timeout,1/5/2025 18:00,1/6/2025 5:00,Network Team,Alice Smith,5,Bad
+INC10097,Email not syncing,Email,Critical,Work initiated on issue: Email not syncing,Issue resolved: Email not syncing,1/16/2025 3:00,1/16/2025 12:00,Application Support,David Lee,5,Neutral
+INC10098,Software installation failure,Software,High,Work initiated on issue: Software installation failure,Issue resolved: Software installation failure,1/25/2025 14:00,1/25/2025 22:00,Application Support,Priya Sharma,3,Excellent
+INC10099,Access denied to shared folder,Access,Low,Work initiated on issue: Access denied to shared folder,Issue resolved: Access denied to shared folder,1/4/2025 19:00,1/5/2025 7:00,Network Team,Sara Khan,2,Bad
